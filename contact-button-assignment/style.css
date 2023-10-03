@@ -1,0 +1,36 @@
+/*
+MY COLOR PALETTE
+Color 1 - #82D4BB
+Color 2 - #331832
+Color 3 - #BFACC8
+Color 4 - #1768AC
+Color 5 - #D30C7B
+*/
+
+body {
+    background-color: #BFACC8;
+    text-align: center;
+}
+
+button {
+    background-color: #331832;
+    color: #82D4BB;
+    font-family: 'Lora', serif;
+    font-size: 20px;
+    width: 200px;
+    padding: 10px;
+    margin-top: 50px;
+    border: none;
+    border-radius: 8px;
+}
+button:hover {
+    background-color: white
+}
+h1{
+    font-family: 'Lora', serif;
+    font-size: 50px;
+}
+h2 {
+    font-family: 'Lora', serif;
+    text-transform: uppercase;
+}
