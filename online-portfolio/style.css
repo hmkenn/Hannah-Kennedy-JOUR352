@@ -7,6 +7,7 @@ font-family: 'Playfair Display', serif;
 
 #topper{
     background-color: #eee5f4;
+    text-align: center;
 }
 
 h1{
@@ -24,14 +25,60 @@ h2{
     color: black;
     text-align: center;
     }
+    
+    button{
+    font-family: 'Playfair Display', serif;
+    font-weight: bold;
+    border-radius:10px;
+    text-align: center;
+    }
+    button:hover{
+    background-color:#eee5f4;
+    
+}
+    
 img {
     width:200px;
     border-radius:500px;
     float:right;
     border: 5px solid black;
-    
-    
+    margin: 20px 200px 50px 400px;
 }
+
+#navigation{
+       font-family: 'Playfair Display' , serif;
+        text-align: center;
+    }
+    
+    #experience{
+        font-family: 'Playfair Display', serif;
+        font-weight: bold;
+        border-bottom: 5px black;
+    }
+    h4{
+        font-family: 'Playfair Display', serif;
+
+    }
+    p{
+    font-family: 'Playfair Display', serif;
+    }
+    #skills{
+        font-family: 'Playfair Display', serif;
+        font-weight: bold;
+        border-bottom: 5px black;
+    }
+    ul{
+        font-family: 'Playfair Display', serif;
+    }
+    #education{
+        font-family: 'Playfair Display', serif;
+        border-bottom: 5px black;
+    }
+    h3{
+        font-family: 'Playfair Display', serif;
+        font-weight: bold;
+        border-bottom: 5px;
+    }
 
 #footer{
     position: fixed;
