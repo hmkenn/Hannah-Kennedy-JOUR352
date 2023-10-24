@@ -1,4 +1,16 @@
+/* font-family: 'Alex Brush', cursive;
+font-family: 'Playfair Display', serif;
+*/
+
 img {
     width:100%;
+    
+}
+
+#footer{
+    position: fixed;
+    bottom: 0px;
+    background-color: black;
+    color: white;
     
 }
