@@ -44,9 +44,7 @@ h2{
 img {
     width:200px;
     border-radius:500px;
-    float:right;
     border: 5px solid black;
-    margin: 20px 200px 50px 400px;
 }
 
 #navigation{
