@@ -1,7 +1,81 @@
 @media{ 
-img{
+#top-photo{
     width:100%;
 }
+    #garden{
+        width: 700px;
+       align-items: center;
+    }
+    #caption{
+        text-align: center;
+        font-size:10px;
+        font-family: 'Playfair Display', serif;
+    }
+    #court{
+        width:700px;
+        align-items: center;
+    }
+    #bedroom{
+        width:700px;
+        align-items: center;
+    }
+    #sign{
+        width:700px;
+        align-items:center;
+    }
+    h1{
+    font-family: 'Alatsi', sans-serif;
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+    }    
+    h4{
+        font-family: 'Playfair Display' serif;
+        text-align: center;
+        font-size: 20px;
+    }
+    h6{
+        font-family: 'Playfair Display', serif;
+        text-align: center;
+    }
+    #section1{
+        font-family: 'Playfair Display', serif;
+    }
+    #section2{
+        font-family: 'Playfair Display', serif;
+    }
+    #section3{
+        font-family: 'Playfair Display', serif;
+    }
+    #section4{
+        font-family: 'Playfair Display', serif;
+    }
+    #section5{
+        font-family: 'Playfair Display', serif;
+    }
+    #section6{
+        font-family: 'Playfair Display', serif;
+    }
+    #section7{
+        font-family: 'Playfair Display', serif;
+    }
+    #section8{
+        font-family: 'Playfair Display', serif;
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
 }
 @media (min-width:576px){
     
