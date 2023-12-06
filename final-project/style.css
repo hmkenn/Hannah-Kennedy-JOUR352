@@ -29,6 +29,12 @@
         margin-right: auto;
         width: 50%;
     }
+    #interactive{
+        display:block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+    }
     #closeup{
          display:block;
         margin-left: auto;
