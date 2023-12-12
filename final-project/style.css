@@ -40,13 +40,17 @@
     }
     .pullquote{
         color:black;
-        font-size: 22px;
+        font-size: 20px;
         text-align: center;
-        border-top: 2px solid black;
-        border-bottom: 2px solid black;
-        margin: 30px 0px 30px 0px;
-
+        border-top: 2px solid hotpink;
+        border-bottom: 2px solid hotpink;
+        margin: 30px 0px 15px 0px;
     }
+.attribution{
+    color: black;
+    font-size: 14px;
+    text-align: center;
+}
     h1{
     font-family: 'Alatsi', sans-serif;
     text-align: center;
