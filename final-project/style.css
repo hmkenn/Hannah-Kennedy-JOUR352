@@ -8,17 +8,13 @@
         text-align: center;
         margin: 7px 0px 15px 0px;
     }
-    #garden{
-        display:block;
-        margin-left: auto;
-        margin-right: auto;
-        width: 50%;
+   
     }
     #top-caption{
         font-size: 12px;
         font-family: 'Playfair Display', serif;
     }
-    #caption{
+    .caption{
         text-align: center;
         font-size:12px;
         font-family: 'Playfair Display', serif;
@@ -35,29 +31,13 @@
         margin-right: auto;
         width: 50%;
     }
-    #closeup{
-         display:block;
-        margin-left: auto;
-        margin-right: auto;
-        width: 50%;
+   
     }
-    #court{
+    .image{
        display:block;
         margin-left: auto;
         margin-right: auto;
-        width: 50%;
-    }
-    #bedroom{
-        display:block;
-        margin-left: auto;
-        margin-right: auto;
-        width: 50%;
-    }
-    #sign{
-       display:block;
-        margin-left: auto;
-        margin-right: auto;
-        width: 50%;
+        width:100%;
     }
     .pullquote{
         color:black;
@@ -89,21 +69,14 @@
     }
     .content{
         font-family: 'Playfair Display', serif;
-    }
-    
-    
-    
-    
-    
-    
-    
-    
+    }    
 
     
 }
 @media (min-width:576px){
-    
-}
+        
+    } 
+
 @media (min-width:992px){
     
 }
